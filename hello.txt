@@ -5,3 +5,6 @@ qwerqwerweqrsadf
 21345434652456dsagfcxzsdafg
 wetytr
 rygrtuyrtweqyht
+public static void main(String[] args){
+     System.out.pringln("Hello,world!");
+}
